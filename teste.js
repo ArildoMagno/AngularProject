@@ -1,0 +1,8 @@
+alert("Teste ")
+console.log("Teste ")
+alert("Teste ")
+console.log("Teste ")
+alert("Teste ")
+console.log("Teste ")
+alert("Teste ")
+console.log("Teste ")
